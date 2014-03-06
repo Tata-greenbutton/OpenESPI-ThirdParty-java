@@ -49,6 +49,27 @@
         </profile>
         
         <profile>
+
+            <id>devLH</id>
+            <properties>
+                
+                <datacustodian.base.url>http://localhost:8080/DataCustodian</datacustodian.base.url>
+                <thirdparty.base.url>http://localhost:8080/ThirdParty</thirdparty.base.url>
+
+        <!--        <datacustodian.base.url>https://apps.londonhydro.com/DataCustodian</datacustodian.base.url>
+		<thirdparty.base.url>https://apps.londonhydro.com/ThirdParty</thirdparty.base.url>
+				-->
+                <profile>devLH</profile>
+
+                <database>mysql</database>
+
+                <hbm2ddl_auto>none</hbm2ddl_auto>
+
+            </properties>
+
+        </profile>
+        
+        <profile>
             <id>devmysql</id>
              <properties>
                 <datacustodian.base.url>http://localhost:8080/DataCustodian</datacustodian.base.url>
