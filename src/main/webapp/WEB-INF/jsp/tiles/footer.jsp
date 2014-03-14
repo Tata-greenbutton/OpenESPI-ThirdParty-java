@@ -22,12 +22,15 @@
 
 		<ul class="inline">
 			<li><img src="<c:url value='/resources/ico/favicon.png'/>"
-				width="20" />&nbsp;<a href="http://www.greenbuttondata.org">Green Button for America</a></li>
+				width="20" />&nbsp;<a href="http://www.greenbuttondata.ca">Green Button for Ontario</a></li>
+			<li>|| &copy; <a href="http://www.EnergyOS.org/">TCS.com, EnergyOS.org</a> 2014 </li>
+			<!--<li><img src="<c:url value='/resources/ico/favicon.png'/>"
+				width="20" />&nbsp;<a href="http://www.greenbuttondata.org">Green Button</a></li>
 			<li>|| <a href="<c:url value='/TermsOfService' />">Terms of Service</a></li>
 			<li>|| <a href="<c:url value='/UsagePolicy' />">Usage Policy</a></li>
 			<li>|| <a href="<c:url value='/about-version' />">About</a></li>
 			<li>|| <a href="<c:url value='/Sponsors' /> ">Sponsors</a></li>
-			<li>|| &copy; <a href="http://www.EnergyOS.org/">EnergyOS.org</a> 2013, 2014 </li>
+			<li>|| &copy; <a href="http://www.EnergyOS.org/">EnergyOS.org</a> 2013, 2014 </li>-->
 		</ul>
 
 	</div>

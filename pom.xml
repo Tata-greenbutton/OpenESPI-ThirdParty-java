@@ -51,8 +51,8 @@
         <profile>
             <id>devLH</id>
             <properties>
-				<datacustodian.base.url>https://apps.londonhydro.com/DataCustodian</datacustodian.base.url>
-				<thirdparty.base.url>https://apps.londonhydro.com/ThirdParty</thirdparty.base.url>
+		<datacustodian.base.url>https://apps.londonhydro.com/DataCustodian</datacustodian.base.url>
+		<thirdparty.base.url>https://apps.londonhydro.com/ThirdParty</thirdparty.base.url>
                 <template>oauthTemplate</template>
                 <profile>devLH</profile>
                 <database>mysql</database>
